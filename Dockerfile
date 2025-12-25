@@ -1,4 +1,4 @@
-FROM debian:stable
+FROM debian:12
 
 ARG version=24.10.1
 ENV version=$version
